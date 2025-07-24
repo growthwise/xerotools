@@ -1,4 +1,7 @@
 // Go to the payslips page for any employee before running this in the console it will download all payslips so you dont have to click each one
+// For video instructions see https://www.youtube.com/watch?v=4tlJ0uQdaIE
+
+
 // Set the maximum number of files to download
 const MAX_DOWNLOADS = 10; // Change this to whatever limit you want (e.g., 50, 100)
 
